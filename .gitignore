@@ -1,0 +1,6 @@
+# ciao-specific
+*.po
+*.itf
+
+# emacs drafts/autosaves
+*~
